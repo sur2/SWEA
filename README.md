@@ -1,2 +1,2 @@
-# SWEA
-SW Expert Academy
+# SW Expert Academy
+Samsung SW Expert Academy
